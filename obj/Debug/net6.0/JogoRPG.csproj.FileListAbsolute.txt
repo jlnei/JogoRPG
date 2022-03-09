@@ -1,0 +1,15 @@
+/home/_nei/Downloads/DIO/JogoRPG/bin/Debug/net6.0/JogoRPG
+/home/_nei/Downloads/DIO/JogoRPG/bin/Debug/net6.0/JogoRPG.deps.json
+/home/_nei/Downloads/DIO/JogoRPG/bin/Debug/net6.0/JogoRPG.runtimeconfig.json
+/home/_nei/Downloads/DIO/JogoRPG/bin/Debug/net6.0/JogoRPG.dll
+/home/_nei/Downloads/DIO/JogoRPG/bin/Debug/net6.0/ref/JogoRPG.dll
+/home/_nei/Downloads/DIO/JogoRPG/bin/Debug/net6.0/JogoRPG.pdb
+/home/_nei/Downloads/DIO/JogoRPG/obj/Debug/net6.0/JogoRPG.csproj.AssemblyReference.cache
+/home/_nei/Downloads/DIO/JogoRPG/obj/Debug/net6.0/JogoRPG.GeneratedMSBuildEditorConfig.editorconfig
+/home/_nei/Downloads/DIO/JogoRPG/obj/Debug/net6.0/JogoRPG.AssemblyInfoInputs.cache
+/home/_nei/Downloads/DIO/JogoRPG/obj/Debug/net6.0/JogoRPG.AssemblyInfo.cs
+/home/_nei/Downloads/DIO/JogoRPG/obj/Debug/net6.0/JogoRPG.csproj.CoreCompileInputs.cache
+/home/_nei/Downloads/DIO/JogoRPG/obj/Debug/net6.0/JogoRPG.dll
+/home/_nei/Downloads/DIO/JogoRPG/obj/Debug/net6.0/ref/JogoRPG.dll
+/home/_nei/Downloads/DIO/JogoRPG/obj/Debug/net6.0/JogoRPG.pdb
+/home/_nei/Downloads/DIO/JogoRPG/obj/Debug/net6.0/JogoRPG.genruntimeconfig.cache
